@@ -1,2 +1,2 @@
 # Anirudh Warrier
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8fca1ca0-4809-49c4-aa2d-4ea8b604b547/deploy-status)](https://app.netlify.com/sites/anirudhwarrier/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/01d6a230-c58a-40af-baa0-33a7a1e093a1/deploy-status)](https://app.netlify.com/sites/anirudhwarrier/deploys)
